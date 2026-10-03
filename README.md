@@ -36,9 +36,10 @@ moved the leaderboard from 0.3695 to 0.3598, and the extra audio models then bro
 
 | Validation (unseen speakers) | RMSE | Pearson |
 |---|---|---|
-| Best single model (Whisper encoder, ridge) | 0.565 | 0.83 |
-| Transcript features only | 0.695 | 0.73 |
-| **Stacked ensemble** | **0.535** | **0.85** |
+| Best single model (Whisper encoder, kernel ridge) | 0.574 | 0.83 |
+| Transcript features only | 0.719 | 0.71 |
+| **Stacked ensemble** | **0.541** | **0.85** |
+| Ensemble, in-sample training RMSE | 0.388 | 0.93 |
 
 ## Repository
 
