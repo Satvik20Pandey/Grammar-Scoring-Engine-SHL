@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+soundfile
+torch
+transformers>=4.45
+faster-whisper==1.1.1
+requests
+tqdm
+pyarrow

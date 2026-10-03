@@ -1,0 +1,11 @@
+data/
+cache/
+outputs/
+*.wav
+*.parquet
+*.npy
+__pycache__/
+.ipynb_checkpoints/
+.env
+exp/
+submissions/
