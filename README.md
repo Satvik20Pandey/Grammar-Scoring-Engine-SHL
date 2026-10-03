@@ -45,7 +45,7 @@ moved the leaderboard from 0.3695 to 0.3598, and the extra audio models then bro
 
 ```
 notebooks/shl_GSE_Satvik.ipynb   full pipeline, evaluation, visualisations and report
-submission.csv                   final predictions for the 216 test clips
+satvik_pandey.csv                final predictions for the 216 test clips (public RMSE 0.3516)
 requirements.txt
 ```
 
